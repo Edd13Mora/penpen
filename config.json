@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/Edd13Mora/penpen/refs/heads/main/xss-fetch.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/Edd13Mora/penpen/refs/heads/main/xss-fetch.yaml",
+            "name": "XSS POC Test"
+        }
+    ]
+}
